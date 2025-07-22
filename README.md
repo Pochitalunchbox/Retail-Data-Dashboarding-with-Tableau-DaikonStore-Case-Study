@@ -1,4 +1,4 @@
-# 🛒 Retail Data Dashboarding with Tableau — DaikonStore Case Study
+# Retail Data Analytics Dashboarding with Tableau (5 Visualizations)
 
 This project analyzes retail customer data and sales performance across multiple markets using **Tableau dashboards**. Through five key visualizations, we uncover patterns in customer behavior, product performance, profit trends, and regional sales dynamics.
 

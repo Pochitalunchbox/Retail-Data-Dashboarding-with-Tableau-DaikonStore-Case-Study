@@ -82,4 +82,4 @@ This project analyzes retail customer data and sales performance across multiple
 
 **Ethan Choo**  
 📍 Singapore | 🎓 Data Science & Business Analytics Graduate (SIM-UOL)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ethan-choo-6a4365299/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ethanchoo5/)  
